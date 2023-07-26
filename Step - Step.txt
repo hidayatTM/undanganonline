@@ -1,0 +1,10 @@
+1. Buat file index.html
+2. Tambahkan Bootstrap
+3. Download Google Font, Sacramento Work Sans, 
+4. Tambahkan Style css.
+5. Download SimplyCountdown.js ( github)  
+6. Extract SimplyCountdown, ambil file .js pada folder dist.
+7. Kemudian copy css nya.
+8. Buat folder countdown copy file .js dan .css ke folder tersebut.
+9. untuk ornamen caari floral pattern
+10. gunakan icons bootstrap jika perlu.
